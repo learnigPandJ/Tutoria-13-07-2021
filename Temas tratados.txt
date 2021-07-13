@@ -12,9 +12,12 @@ suma de matrices y calcular la matriz transpuesta
    cifras decimales despues del punto
    Se usó igual la clase DecimalFormatSymbols para establecer el simbolo separador con el cual se va a mostrar el decimal
    formateado (El simbolo puede ser el que se desee, en este caso punto, coma o el simbolo que se desee)
+7. Casting
+8. Switch
+
 
 link del código:
-https://github.com/learnigPandJ/Tutoria-12-07-2021.git
+https://github.com/learnigPandJ/Tutoria-13-07-2021.git
 
 Nota: El código se encuenta en la carpeta src y en los archivos con extension .java, los demas archivos son creados
 	al momento de compilar el programa
